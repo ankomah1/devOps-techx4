@@ -7,7 +7,7 @@ pipeline {
     }
 */
     environment {
-        registry = "techlearn2024/cicd"
+        registry = "ankomah90/charles-repo"
         registryCredential = 'dockerhub'
     }
 
